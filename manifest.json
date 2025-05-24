@@ -5,8 +5,7 @@
     "description": "Простий генератор флеш-карток із веб-сторінок.",
     "permissions": ["scripting", "activeTab"],
     "action": {
-      "default_popup": "popup.html",
-      "default_icon": "icon.png"
+      "default_popup": "popup.html"
     },
     "content_scripts": [
       {
